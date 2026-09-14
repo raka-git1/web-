@@ -120,3 +120,6 @@ lorem ipsum dolor sit amet
 
 </body>
 </html>
+
+
+<img src="readme.jpg.png" width="200">
