@@ -122,4 +122,4 @@ lorem ipsum dolor sit amet
 </html>
 
 
-<img src="readme.jpg.png" width="200">
+<img src="commit.png" width="200">
