@@ -122,5 +122,5 @@ lorem ipsum dolor sit amet
 </html>
 
 
-<img src="blog.png" width="200">
-<img src="home.png" width="200">
+<img src="new1.png" width="200">
+<img src="new2.png" width="200">
