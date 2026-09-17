@@ -122,4 +122,5 @@ lorem ipsum dolor sit amet
 </html>
 
 
-<img src="commit.png" width="200">
+<img src="blog.png" width="200">
+<img src="home.png" width="200">
